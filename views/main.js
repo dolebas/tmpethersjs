@@ -13,7 +13,7 @@ function view(state, emit) {
       <main class="pa3 cf center">
 
         <article class="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw5 center">
-          <img src="http://placekitten.com/g/600/300" class="db w-100 br2 br--top" alt="Photo of a kitten looking menacing.">
+          <img src="https://res.cloudinary.com/dolebas/image/upload/v1524921012/cat_ayacr6.jpg" class="db w-100 br2 br--top" alt="Photo of a kitten looking menacing.">
           <div class="pa2 ph3-ns pb3-ns">
             <div class="dt w-100 mt1">
               <div class="dtc">
